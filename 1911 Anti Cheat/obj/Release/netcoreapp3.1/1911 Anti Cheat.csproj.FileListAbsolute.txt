@@ -1,0 +1,22 @@
+C:\Users\Zach\source\repos\1911 Anti Cheat\1911 Anti Cheat\bin\Release\netcoreapp3.1\1911 Anti Cheat.exe
+C:\Users\Zach\source\repos\1911 Anti Cheat\1911 Anti Cheat\bin\Release\netcoreapp3.1\1911 Anti Cheat.deps.json
+C:\Users\Zach\source\repos\1911 Anti Cheat\1911 Anti Cheat\bin\Release\netcoreapp3.1\1911 Anti Cheat.runtimeconfig.json
+C:\Users\Zach\source\repos\1911 Anti Cheat\1911 Anti Cheat\bin\Release\netcoreapp3.1\1911 Anti Cheat.runtimeconfig.dev.json
+C:\Users\Zach\source\repos\1911 Anti Cheat\1911 Anti Cheat\bin\Release\netcoreapp3.1\1911 Anti Cheat.dll
+C:\Users\Zach\source\repos\1911 Anti Cheat\1911 Anti Cheat\bin\Release\netcoreapp3.1\1911 Anti Cheat.pdb
+C:\Users\Zach\source\repos\1911 Anti Cheat\1911 Anti Cheat\bin\Release\netcoreapp3.1\Google.Apis.dll
+C:\Users\Zach\source\repos\1911 Anti Cheat\1911 Anti Cheat\bin\Release\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Zach\source\repos\1911 Anti Cheat\1911 Anti Cheat\bin\Release\netcoreapp3.1\Google.Apis.Auth.dll
+C:\Users\Zach\source\repos\1911 Anti Cheat\1911 Anti Cheat\bin\Release\netcoreapp3.1\Google.Apis.Core.dll
+C:\Users\Zach\source\repos\1911 Anti Cheat\1911 Anti Cheat\bin\Release\netcoreapp3.1\Google.Apis.Drive.v3.dll
+C:\Users\Zach\source\repos\1911 Anti Cheat\1911 Anti Cheat\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Zach\source\repos\1911 Anti Cheat\1911 Anti Cheat\obj\Release\netcoreapp3.1\1911 Anti Cheat.csproj.AssemblyReference.cache
+C:\Users\Zach\source\repos\1911 Anti Cheat\1911 Anti Cheat\obj\Release\netcoreapp3.1\_1911_Anti_Cheat.AntiCheatForm.resources
+C:\Users\Zach\source\repos\1911 Anti Cheat\1911 Anti Cheat\obj\Release\netcoreapp3.1\1911 Anti Cheat.csproj.GenerateResource.cache
+C:\Users\Zach\source\repos\1911 Anti Cheat\1911 Anti Cheat\obj\Release\netcoreapp3.1\1911 Anti Cheat.AssemblyInfoInputs.cache
+C:\Users\Zach\source\repos\1911 Anti Cheat\1911 Anti Cheat\obj\Release\netcoreapp3.1\1911 Anti Cheat.AssemblyInfo.cs
+C:\Users\Zach\source\repos\1911 Anti Cheat\1911 Anti Cheat\obj\Release\netcoreapp3.1\1911 Anti Cheat.csproj.CoreCompileInputs.cache
+C:\Users\Zach\source\repos\1911 Anti Cheat\1911 Anti Cheat\obj\Release\netcoreapp3.1\1911 Anti Cheat.csproj.CopyComplete
+C:\Users\Zach\source\repos\1911 Anti Cheat\1911 Anti Cheat\obj\Release\netcoreapp3.1\1911 Anti Cheat.dll
+C:\Users\Zach\source\repos\1911 Anti Cheat\1911 Anti Cheat\obj\Release\netcoreapp3.1\1911 Anti Cheat.pdb
+C:\Users\Zach\source\repos\1911 Anti Cheat\1911 Anti Cheat\obj\Release\netcoreapp3.1\1911 Anti Cheat.genruntimeconfig.cache
